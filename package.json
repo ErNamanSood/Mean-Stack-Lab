@@ -1,0 +1,21 @@
+{
+  "name": "mean_stack",
+  "version": "1.0.0",
+  "description": "this is my mean stack page",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "MEAN",
+    "Mongo",
+    "Express",
+    "Angular",
+    "Nodejs"
+  ],
+  "author": "Naman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
